@@ -1,0 +1,15 @@
+[submodule "data/ELTeC-cze"]
+	path = data/ELTeC-cze
+	url = https://github.com/COST-ELTeC/ELTeC-cze.git
+[submodule "data/ELTeC-fra"]
+	path = data/ELTeC-fra
+	url = https://github.com/COST-ELTeC/ELTeC-fra.git
+[submodule "data/ELTeC-spa"]
+	path = data/ELTeC-spa
+	url = https://github.com/COST-ELTeC/ELTeC-spa.git
+[submodule "data/ELTeC-deu"]
+	path = data/ELTeC-deu
+	url = https://github.com/COST-ELTeC/ELTeC-deu.git
+[submodule "data/ELTeC-eng"]
+	path = data/ELTeC-eng
+	url = https://github.com/COST-ELTeC/ELTeC-eng.git
